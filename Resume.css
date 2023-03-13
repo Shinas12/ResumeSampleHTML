@@ -1,0 +1,60 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+   
+}
+body{
+    padding: 0px 426px
+}
+#parentContainer{
+    border: 1px solid;
+    padding: 0px 15px;
+}
+#headerContainer{
+    display: flex;
+}
+
+
+#headerName{
+    margin-bottom: 0px;
+}
+#headerDomain{
+    margin-top: 4px;
+    font-weight: bold;
+}
+#headerImage{
+    width: 129px;
+    height: 150px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+#body{
+    display: flex;
+}
+a{
+    display: block;
+    margin-bottom: 10px;
+}
+.flex{
+    display: flex;
+}
+pre{
+    font-size: 13px;
+}
+.projectDesc{
+    padding: 2px 10px;
+    border-left: 1px solid black;
+    margin-left: 12px;
+}
+.smallFont{
+    font-size: small;
+}
+.projectHead{
+    margin-right: 0px;
+}
+.marginTop{
+    margin-top: 40px;
+}
+ul{
+    margin-top: 0px;
+}
+
